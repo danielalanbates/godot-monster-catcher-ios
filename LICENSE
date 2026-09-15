@@ -1,0 +1,56 @@
+Copyright (c) 2026 Daniel Bates / Bates LLC. All rights reserved.
+
+Contact: help@batesai.org | batesai.org
+
+This LICENSE covers only the original engine and game code in this
+repository (files under scenes/, scripts/, project.godot, and other
+code Daniel Bates authored for this project). It does NOT cover
+third-party assets copied into this repository from the Tuxemon
+project (files under assets/ and data/monsters.json), which remain
+licensed under Creative Commons CC BY-SA and require separate
+attribution to the Tuxemon project (https://github.com/Tuxemon/Tuxemon)
+regardless of the terms below.
+
+1. GRANT OF USE (NON-COMMERCIAL)
+   Permission is granted, free of charge, to any person to use, copy,
+   modify, and distribute this code for personal, educational, or
+   otherwise non-commercial purposes, subject to the conditions below.
+
+2. COMMERCIAL USE
+   Any commercial use of this code — including but not limited to
+   selling, licensing, sublicensing, or distributing a product or
+   service that incorporates this code, or using this code to generate
+   revenue in any form — requires:
+     a. Prior written permission from Bates LLC, AND
+     b. Payment to Bates LLC of ten percent (10%) of the gross revenue
+        derived from any commercial product or service built using
+        this code,
+   unless otherwise agreed in a separate written agreement signed by
+   Bates LLC.
+
+3. NO IMPLIED LICENSE
+   Nothing in this license shall be construed as granting any rights
+   to trademarks, trade names, or service marks of Bates LLC or Daniel
+   Bates.
+
+4. ALL OTHER RIGHTS RESERVED
+   Except for the limited non-commercial grant in Section 1, all
+   rights are reserved by Daniel Bates / Bates LLC. This is not an
+   open-source license.
+
+5. NO WARRANTY
+   THIS CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE
+   LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+   USE OF THIS CODE.
+
+6. THIRD-PARTY ASSETS
+   Assets under assets/ and data/monsters.json are derived from the
+   Tuxemon project and are licensed under CC BY-SA, independent of the
+   terms above. See README.md for attribution details. Redistribution
+   of those specific files must comply with CC BY-SA regardless of any
+   commercial license obtained under Section 2.
+
+For commercial licensing inquiries, contact help@batesai.org.

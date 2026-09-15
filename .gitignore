@@ -1,0 +1,30 @@
+
+__pycache__/
+._*
+.DS_Store
+.env
+.env.*
+.godot/
+.import/
+.Spotlight-V100
+.Trashes
+.venv/
+*.app/
+*.env
+*.p12
+*.p8
+*.pem
+*.tmp
+*.translation
+# Godot 4 import cache / generated files
+# macOS cruft
+# Misc
+build/
+DerivedData/
+dist/
+export_credentials.cfg
+export_presets.cfg
+export.cfg
+node_modules/
+secrets.json
+venv/

@@ -1,0 +1,218 @@
+{
+  "monsters": [
+    {
+      "id": "angesnow",
+      "name": "Angesnow",
+      "types": [
+        "frost",
+        "cosmic"
+      ],
+      "base_stats": {
+        "hp": 41,
+        "atk": 45,
+        "def": 29,
+        "spd": 33
+      },
+      "moves": [
+        "struggle",
+        "ice_claw",
+        "goad",
+        "beam"
+      ]
+    },
+    {
+      "id": "burrlock",
+      "name": "Burrlock",
+      "types": [
+        "wood"
+      ],
+      "base_stats": {
+        "hp": 75,
+        "atk": 25,
+        "def": 35,
+        "spd": 25
+      },
+      "moves": [
+        "struggle",
+        "pollen_blast",
+        "solar_synthesis",
+        "tip"
+      ]
+    },
+    {
+      "id": "corvix",
+      "name": "Corvix",
+      "types": [
+        "sky"
+      ],
+      "base_stats": {
+        "hp": 59,
+        "atk": 25,
+        "def": 41,
+        "spd": 37
+      },
+      "moves": [
+        "struggle",
+        "wing_tip",
+        "peck",
+        "lineage"
+      ]
+    },
+    {
+      "id": "enduros",
+      "name": "Enduros",
+      "types": [
+        "heroic"
+      ],
+      "base_stats": {
+        "hp": 49,
+        "atk": 45,
+        "def": 41,
+        "spd": 27
+      },
+      "moves": [
+        "struggle",
+        "riposte",
+        "punch",
+        "rock"
+      ]
+    },
+    {
+      "id": "houndice",
+      "name": "Houndice",
+      "types": [
+        "frost"
+      ],
+      "base_stats": {
+        "hp": 56,
+        "atk": 40,
+        "def": 44,
+        "spd": 28
+      },
+      "moves": [
+        "struggle",
+        "ice_claw",
+        "ice_shield",
+        "canine"
+      ]
+    },
+    {
+      "id": "novaquarius",
+      "name": "Novaquarius",
+      "types": [
+        "water",
+        "venom"
+      ],
+      "base_stats": {
+        "hp": 47,
+        "atk": 35,
+        "def": 23,
+        "spd": 41
+      },
+      "moves": [
+        "struggle",
+        "flood",
+        "rot",
+        "crystal"
+      ]
+    },
+    {
+      "id": "pilthropus",
+      "name": "Pilthropus",
+      "types": [
+        "earth"
+      ],
+      "base_stats": {
+        "hp": 44,
+        "atk": 40,
+        "def": 26,
+        "spd": 22
+      },
+      "moves": [
+        "struggle",
+        "strike",
+        "riposte",
+        "blade"
+      ]
+    },
+    {
+      "id": "rhincus",
+      "name": "Rhincus",
+      "types": [
+        "earth",
+        "sky"
+      ],
+      "base_stats": {
+        "hp": 41,
+        "atk": 45,
+        "def": 29,
+        "spd": 33
+      },
+      "moves": [
+        "struggle",
+        "hammerhead",
+        "wing_tip",
+        "peck"
+      ]
+    },
+    {
+      "id": "rockitten",
+      "name": "Rockitten",
+      "types": [
+        "earth"
+      ],
+      "base_stats": {
+        "hp": 47,
+        "atk": 25,
+        "def": 23,
+        "spd": 31
+      },
+      "moves": [
+        "struggle",
+        "ram",
+        "boulder",
+        "mudslide"
+      ]
+    },
+    {
+      "id": "trojerror",
+      "name": "Trojerror",
+      "types": [
+        "metal",
+        "cosmic"
+      ],
+      "base_stats": {
+        "hp": 60,
+        "atk": 30,
+        "def": 20,
+        "spd": 30
+      },
+      "moves": [
+        "struggle",
+        "bullet",
+        "wall_of_steel",
+        "buzz"
+      ]
+    },
+    {
+      "id": "yiinaang",
+      "name": "Yiinaang",
+      "types": [
+        "shadow",
+        "cosmic"
+      ],
+      "base_stats": {
+        "hp": 62,
+        "atk": 30,
+        "def": 38,
+        "spd": 36
+      },
+      "moves": [
+        "struggle",
+        "gust",
+        "midnight_mantle",
+        "electrical_storm"
+      ]
+    }
+  ]
+}
