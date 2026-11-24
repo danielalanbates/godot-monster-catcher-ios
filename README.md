@@ -96,5 +96,5 @@ data/monsters.json      11 species: id, name, types, base_stats, moves
 5. iOS export presets (`export_presets.cfg`) — intentionally not created
    yet since it's machine/signing-specific; add via the Godot editor's
    Export dialog when ready.
-6. Code signing with Daniel's existing paid Apple Developer account, then
-   TestFlight upload.
+6. Code signing with a paid Apple Developer account, then TestFlight
+   upload.
